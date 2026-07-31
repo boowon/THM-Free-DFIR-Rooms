@@ -85,7 +85,7 @@ A curated list of **currently free Digital Forensics & Incident Response (DFIR)*
 ### 🟢 Easy
 
 - [OSINT Challenge IV](https://tryhackme.com/room/osintchallengeiv)
-- ~~[Bank GPT](https://tryhackme.com/room/bankgpt)~~ *(Retired)*
+- [Bank GPT](https://tryhackme.com/room/bankgpt)
 - [CyberLens P6](https://tryhackme.com/room/cyberlensp6)
 - [Memory Forensics](https://tryhackme.com/room/memoryforensics)
 - [Investigating Windows](https://tryhackme.com/room/investigatingwindows)
